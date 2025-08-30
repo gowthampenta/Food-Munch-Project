@@ -16,8 +16,6 @@ CSS: For styling the website and creating responsive layouts.
 
 Bootstrap: To implement responsive design components and styles.
 
-JavaScript: Used for dynamic content like modals, videos, and interactivity.
-
 Features
 
 Responsive Layout: The website adapts to various screen sizes with a mobile-first approach using Bootstrap.
@@ -67,6 +65,6 @@ Gowtam Penta
 
 Email: gowthampenta3@gmail.com
 
-LinkedIn: Gowtam Penta LinkedIn
+LinkedIn: https://www.linkedin.com/in/gowtham-penta
 
-GitHub: Gowtam Penta GitHub
+GitHub: https://github.com/gowthampenta
