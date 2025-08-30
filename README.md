@@ -1,66 +1,72 @@
-Food Munch
-Food Munch is a modern, responsive website for discovering delicious food options, exploring menus, and placing orders online. Designed with HTML, CSS, Bootstrap, and JavaScript, Food Munch offers an engaging, mobile-friendly experience for convenient food browsing and ordering.
+Food Munch Project
 
-Features
-Responsive design for all devices
+A responsive website for Food Store that showcases various food items, provides detailed information about each item, and displays offers available. This project is designed using HTML, CSS, and Bootstrap, and is optimized for mobile-first responsiveness.
 
-Interactive navigation bar with fixed positioning
+Demo
 
-Hero banner with logo, slogan, and call-to-action buttons
+You can view the live project here:
 
-"Why Choose Us" highlights including fresh food and best offers
-
-Explore Menu section with visual categories
-
-Healthy Food section focused on organic meal options
-
-Delivery & Payment section with flexible payment choices and order tracking
-
-Customer appreciation modal with a surprise gift voucher
-
-Social media icons for easy sharing and following
-
-Footer with business address and branding
-
-Tech Stack
-HTML5
-
-CSS3 / Bootstrap 4
-
-JavaScript / jQuery
-
-Font Awesome (icons)
-
-Project Structure
-index.html – Main webpage
-
-style.css – Custom styles
-
-bootstrap.min.css – Bootstrap library
-
-All images loaded via CDN
-
-Setup & Usage
-Clone the repository:
-
-text
-git clone https://github.com/gowthampenta/food-munch.git
-Open index.html in your browser:
-All CSS and JS dependencies are included via CDN.
-
-Customization:
-Update images or menu items as needed. Modify Bootstrap classes for styling tweaks.
-
-Live Demo
-View Food Munch in action:
 Food Munch Demo
 
-Screenshots
-Banner and menu sections
+Technologies Used
 
-Offers and modal popup
+HTML: Basic structure for the webpage using semantic tags (e.g., header, footer, article).
 
-Responsive layouts for mobile and desktop
+CSS: For styling the website and creating responsive layouts.
 
-License
-MIT
+Bootstrap: To implement responsive design components and styles.
+
+JavaScript: Used for dynamic content like modals, videos, and interactivity.
+
+Features
+
+Responsive Layout: The website adapts to various screen sizes with a mobile-first approach using Bootstrap.
+
+Food Categories: Different categories of food items such as Starters, Soups, Seafood, Desserts, etc.
+
+Food Item Details: Click on any food item to view more details.
+
+YouTube Videos: Embedded videos for specific food items.
+
+Modal for Offers: Click to view offers and discounts available on food orders.
+
+User-Friendly Navigation: Easy-to-use navigation bar with sections such as "Why Choose Us", "Explore Menu", "Delivery & Payment", and "Follow Us".
+
+Project Structure
+├── index.html             # Main HTML file
+├── css/                   
+│   └── style.css          # Custom styles for the webpage
+└── img/                   
+    └── (image files)      # Image assets used in the project
+
+Getting Started
+
+Clone the repository or download the files.
+
+Open the index.html file in your browser to view the website.
+
+To make any changes, modify the style.css and index.html files.
+
+How to Contribute
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-branch).
+
+Make the necessary changes or improvements.
+
+Commit your changes (git commit -m 'Add feature').
+
+Push to the branch (git push origin feature-branch).
+
+Open a pull request to merge the changes.
+
+Contact
+
+Gowtam Penta
+
+Email: gowthampenta3@gmail.com
+
+LinkedIn: Gowtam Penta LinkedIn
+
+GitHub: Gowtam Penta GitHub
